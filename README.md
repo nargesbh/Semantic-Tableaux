@@ -51,4 +51,4 @@ The program is structured into several functions, each with a specific role:
 - `ifmaker(x, i)`: This function processes implications (logical IF-THEN) within a formula, creating appropriate branches.
 - `successor(x, father)`: Generates the semantic tableau tree recursively, expanding the tableau until it reaches leaf nodes or valid branches.
 
-** Thank you for using the Semantic Tableaux Solver! **
+**Thank you for using the Semantic Tableaux Solver!**
